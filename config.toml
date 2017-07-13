@@ -6,6 +6,7 @@ theme = "minimal"
 [params]
     author = "Ciara Goetze"
     description = "Personal blog theme powered by Hugo"
+    profilepic = "~/goetze11.github.io/public/kitty.jpg"
     githubUsername = "#goetze11"
     accent = "red"
     showBorder = true

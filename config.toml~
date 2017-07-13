@@ -1,12 +1,13 @@
-baseURL = "http://example.com/"
+baseURL = "https://goetze11.github.io"
 languageCode = "en-us"
-title = "Minimal"
+title = "Ciara Goetze"
 theme = "minimal"
 
 [params]
-    author = "Calin Tataru"
+    author = "Ciara Goetze"
     description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
+    profilepic = 
+    githubUsername = "#goetze11"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -35,12 +36,12 @@ theme = "minimal"
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:goetzemango@yahoo.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/goetze11/"
     name = "github"
     weight = 2
 
@@ -50,7 +51,7 @@ theme = "minimal"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/ciaragoetze/"
     name = "linkedin"
     weight = 4
 
