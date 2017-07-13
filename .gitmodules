@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/goetze11/goetze11.github.io.git
