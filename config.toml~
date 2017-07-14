@@ -1,17 +1,16 @@
 baseURL = "https://goetze11.github.io"
 languageCode = "en-us"
-title = "Ciara Goetze"
+title = "Ciara R. Goetze"
 theme = "minimal"
 
 [params]
     author = "Ciara Goetze"
-    description = "Personal blog theme powered by Hugo"
-    profilepic = 
+    description = "I'm coool"
     githubUsername = "#goetze11"
-    accent = "red"
+    accent = "3b73b1"
     showBorder = true
-    backgroundColor = "white"
-    font = "Quicksand" # should match the name on Google Fonts!
+    backgroundColor = "#a5cccb"
+    font = "Cormorant Garamond" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
@@ -51,7 +50,7 @@ theme = "minimal"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/ciaragoetze/"
+    url = "https://www.linkedin.com/in/ciara-goetze-0a9016b6/"
     name = "linkedin"
     weight = 4
 
